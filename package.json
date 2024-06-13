@@ -10,9 +10,15 @@
   },
   "dependencies": {
     "@kinde-oss/kinde-auth-react": "^3.0.27",
+    "autoprefixer": "^10.4.19",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "postcss": "^8.4.38",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.23.1"
+    "react-intersection-observer": "^9.10.3",
+    "react-router-dom": "^6.23.1",
+    "tailwindcss": "^3.4.4"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
