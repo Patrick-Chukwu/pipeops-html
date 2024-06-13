@@ -7,7 +7,7 @@ export default function LoggedIn() {
     <>
       <header>
         <nav className="nav container">
-          <h1 className="text-display-3">KindeAuth</h1>
+          <h1 className="text-display-3">Caretrackplus</h1>
           <div className="profile-blob">
             {user.picture !== "" ? (
               <img
